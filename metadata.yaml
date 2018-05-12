@@ -1,0 +1,46 @@
+_repo: The-Call-of-the-Blood_20157
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lowell, Orson
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '8723'
+    url: http://www.gutenberg.org/2009/agents/8723
+covers:
+- cover_type: archival
+  image_path: 20157-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Hichens, Robert
+    aliases:
+    - Hichens, Robert S. (Robert Smythe)
+    - Hichens, Robert Smythe
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '919'
+    url: http://www.gutenberg.org/2009/agents/919
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Smythe_Hichens
+description: '"The honeymoon period is brief for newlyweds Hermione and Maurice when
+  the new bride is called to the bedside of a dying friend, leaving her young, handsome
+  husband home alone. Meanwhile, Maurice meets Maddalena, a peasant girl he cannot
+  resist. In all of his hot-blooded passion, he has not predicted the dramatic reaction
+  of Maddalena''s family. Imagine the scene when the older, intellectual Hermione
+  returns."--PublicBookshelf.com.'
+gutenberg_issued: '2006-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20157'
+  lccn: '06034641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'British -- Italy -- Fiction'
+- !lcsh 'Sicily (Italy) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Married people -- Fiction'
+title: The Call of the Blood
+url: http://www.gutenberg.org/ebooks/20157
